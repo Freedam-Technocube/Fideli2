@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481070860730",
+    "project_id": "fideli-f8db7",
+    "storage_bucket": "fideli-f8db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481070860730:android:bee9b75734599767a2f583",
+        "android_client_info": {
+          "package_name": "fr.technocube.fideli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481070860730-2gh7qu0ljfvqui1gphsbg4bg5pa5e425.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs2LfIHVkG6Oz4VqgyzHp9olLswnn5x6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481070860730-2gh7qu0ljfvqui1gphsbg4bg5pa5e425.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

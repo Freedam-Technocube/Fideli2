@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Fideli</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">La carte VIP</string>
+    <string name="home_page_last_add_client">Dernier client ajouté</string>
+
+    <!-- Page Fichier Client -->
+    <string name="client_page_title">Fichier client</string>
+
+    <!-- Page d'ajout de Client -->
+    <string name="add_client_page_title">Ajouter un client</string>
+    <string name="add_client_page_name_input">@string/item_client_name</string>
+    <string name="add_client_page_firstname_input">@string/item_client_firstname</string>
+    <string name="add_client_page_category_input">@string/item_client_category</string>
+
+    <string-array name="add_client_page_category_input">
+        <item>Catégorie : Gold</item>
+        <item>Catégorie : Black</item>
+    </string-array>
+
+    <string name="add_client_page_confirm_button">Ajouter</string>
+
+    <!-- Fenetre popup de detail client -->
+    <string name="popup_client_name">Nom du client</string>
+    <string name="popup_client_firstname">Prénom du client</string>
+    <string name="popup_client_category_title">Catégorie</string>
+    <string name="popup_client_category_subtitle">Black</string>
+
+    <!-- Client customize -->
+    <string name="item_client_name">Nom du client</string>
+    <string name="item_client_firstname">Prénom du client</string>
+    <string name="item_client_category">Catégorie du client</string>
+
+
+
+
+</resources>
